@@ -48,4 +48,4 @@ git clone [https://github.com/Root-Of-Hunter/Facebook-Update-Cloning-Api-Method]
 cd Facebook-Update-Cloning-Api-Method
 
 # Run the Tool
-python facebookA
+python facebookAPI.py
