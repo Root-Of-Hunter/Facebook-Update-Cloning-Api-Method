@@ -17,8 +17,8 @@ This is an **Advanced Facebook Cloning Tool** designed with the latest API metho
 
 - **🚀 Professional Interface:** Clean, emoji-free, and high-quality terminal dashboard.
 - **⏳ Dynamic Delay:** Realistic human-like counting (random 1-10 seconds delay per loop).
-- **🛡️ CP-Only Mode:** Optimized to trigger a Checkpoint (CP) result every **300 counts**.
-- **📊 Live Speed Meter:** Real-time tracking of loops, CP results, and elapsed time.
+- **🛡️ Powerful Mode:** 
+- **📊 UPDATED SCRIPT
 - **🌍 Multi-Country Support:** - 🇧🇩 Bangladesh (+880)
   - 🇮🇳 India (+91)
   - 🇵🇰 Pakistan (+92)
