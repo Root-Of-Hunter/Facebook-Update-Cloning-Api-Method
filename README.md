@@ -16,7 +16,7 @@ This is an **Advanced Facebook Cloning Tool** designed with the latest API metho
 ## ✨ Key Features
 
 - **🚀 Professional Interface:** Clean, emoji-free, and high-quality terminal dashboard.
-- **⏳ Dynamic Delay:** Realistic human-like counting (random 1-10 seconds delay per loop).
+- **⏳
 - **🛡️ Powerful Mode:** 
 - **📊 UPDATED SCRIPT
 - **🌍 Multi-Country Support:** - 🇧🇩 Bangladesh (+880)
