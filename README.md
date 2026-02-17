@@ -1,4 +1,4 @@
-# Facebook-Update-Cloning-Api-Method
+
 
 # 🛡️ ROH Facebook API Update Cloning (Powerful Mode)
 
@@ -48,4 +48,4 @@ git clone [https://github.com/Root-Of-Hunter/Facebook-Update-Cloning-Api-Method]
 cd Facebook-Update-Cloning-Api-Method
 
 # Run the Tool
-python facebookAPI.py
+python facebookA
