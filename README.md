@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Speed-Dynamic%20Slow-red.svg">
 </p>
 
-This is an **Advanced Facebook Cloning Tool** designed with the latest API methods. It features a unique **Dynamic Delay System** and is specifically configured for **CP (Checkpoint) result analysis** with a professional terminal interface.
+This is an **Advanced Facebook Cloning Tool** designed with the latest API methods.
 
 ---
 
