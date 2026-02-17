@@ -42,7 +42,7 @@ pkg update && pkg upgrade
 pkg install python git
 
 # Clone the Repository
-git clone [https://github.com/Root-Of-Hunter/Facebook-Update-Cloning-Api-Method](https://github.com/Root-Of-Hunter/Facebook-Update-Cloning-Api-Method)
+git clone https://github.com/Root-Of-Hunter/Facebook-Update-Cloning-Api-Method/tree/main
 
 # Move to Directory
 cd Facebook-Update-Cloning-Api-Method
